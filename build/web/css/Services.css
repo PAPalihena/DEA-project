@@ -1,0 +1,107 @@
+@charset "utf-8";
+/* CSS Document */
+html,body{
+	margin:0;
+	padding:0;
+	width:100%;
+}
+
+body{
+	width:100%;
+	height:auto;
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("bruno-cervera-Gi6-m_t_W-E-unsplash.jpg");
+	background-size:cover;
+}
+
+.logo img{
+	float:left;
+	width:300px;
+	height:auto;
+}
+
+.header h1{
+	position: absolute;
+	top:3px;
+	left:40%;
+}
+
+h1{
+	font-size:40px;
+	color:#fff;
+	font-family: 'Lobster', cursive;
+	
+}
+
+.col img{
+	position:absolute;
+	top:10px;
+	left:5px;
+	transform: translate(10%,50%);
+	width:320px;
+	height:auto;
+	border-radius:5px;
+	
+}
+
+.col2 img{
+	position:absolute;
+	top:240px;
+	left:5px;
+	transform: translate(10%,50%);
+	width:320px;
+	height:auto;
+	border-radius:5px;
+}
+
+.col3 img{
+	positio:absolute;
+	top:470px;
+	left:50px;
+	transform: translate(-82%,268%);
+	width:320px;
+	height:auto;
+	border-radius:5px;
+}
+
+.parties{
+	position: absolute;
+	top:15%;
+	left:30%;
+}
+
+.parties h2{
+	color:aqua;
+	font-size:27px;
+	font-family: 'Lobster', cursive;
+}
+
+li{
+	color:#fff;
+	font-size:20px;
+	font-family: 'Lobster', cursive;
+}
+
+.price{
+	color:#00FF0D;
+	font-size:15px;
+}
+
+.left{
+	positon:absolute;
+	top:15%;
+	left:50%;
+	transform: translate(68%,-22%);
+}
+
+.left h2{
+	color:aqua;
+	font-size:27px;
+	font-family: 'Lobster', cursive;
+}
+
+
+
+
+
+
+
